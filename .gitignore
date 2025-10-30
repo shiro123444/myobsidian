@@ -1,2 +1,5 @@
-
+[submodule "myobsidian"]
+    path = myobsidian
+    url = https://github.com/shiro123444/myobsidian.git
+//
 //
