@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "1fdfe9a6ec8b40b9",
+    "id": "0008e746acea161f",
     "type": "split",
     "children": [
       {
-        "id": "f6864f0381eefabf",
+        "id": "06308865986a5d2c",
         "type": "tabs",
         "children": [
           {
-            "id": "712c9956aa2ddd33",
+            "id": "cd06674fc7a1da01",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aa5c4196cc33b303",
+    "id": "a1052d0f14e14f0a",
     "type": "split",
     "children": [
       {
-        "id": "8a68caedf0666f64",
+        "id": "9074d9bdb179ecf3",
         "type": "tabs",
         "children": [
           {
-            "id": "71cc4e125de271b9",
+            "id": "3b91ff2727f9fd72",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "8f4efb35b6b7dac4",
+            "id": "e683c32137c7b040",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "b97b137ede66a2b8",
+            "id": "a54419d5e3d97a4e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "05bc3555614d7325",
+    "id": "0da14eeb5ef415fa",
     "type": "split",
     "children": [
       {
-        "id": "55009269c2ec2f19",
+        "id": "45dcb7d3b39f28d3",
         "type": "tabs",
         "children": [
           {
-            "id": "2561a19418c19eae",
+            "id": "b5aa83394024c767",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "8d07c09e90c49be4",
+            "id": "de3697a0e039c3ba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "5d3a7887976c4411",
+            "id": "3bc1bdf8d42096f0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,32 +135,21 @@
             }
           },
           {
-            "id": "e9ed67050f50c770",
+            "id": "321bbfbf62e58897",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "大纲"
             }
           },
           {
-            "id": "9d2d73a787972a81",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
-            "id": "f6ae941559d64ca0",
+            "id": "dc88a477709aa3a2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -172,11 +159,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,44 +178,37 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9d2d73a787972a81",
+  "active": "cd06674fc7a1da01",
   "lastOpenFiles": [
+    "宏观认知/如何做到自己想做的.md",
+    "Pasted image 20251030174320.png",
     "剧本 伪.md",
     "README.md",
+    "Learn.md",
+    "欢迎.md",
+    "brain/CCA.md",
+    "宏观认知",
+    "myobsidian",
+    "copilot/copilot-conversations/你好@20251027_162844.md",
+    "copilot/copilot-conversations",
+    "brain",
     "LICENSE",
-    "myobsidian/欢迎.md",
-    "myobsidian/剧本 伪.md",
-    "myobsidian/copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "myobsidian/copilot/copilot-custom-prompts/Summarize.md",
-    "myobsidian/copilot/copilot-custom-prompts/Simplify.md",
-    "myobsidian/copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "myobsidian/copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "myobsidian/copilot/copilot-custom-prompts/Remove URLs.md",
-    "myobsidian/copilot/copilot-custom-prompts/Make shorter.md",
-    "myobsidian/copilot/copilot-custom-prompts/Make longer.md",
-    "myobsidian/copilot/copilot-custom-prompts/Generate table of contents.md",
-    "myobsidian/copilot/copilot-custom-prompts/Generate glossary.md",
-    "myobsidian/copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "myobsidian/copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "myobsidian/copilot/copilot-custom-prompts/Emojify.md",
-    "myobsidian/copilot/copilot-custom-prompts",
-    "myobsidian/copilot",
     "myobsidian/README.md",
     "myobsidian/LICENSE",
-    "myobsidian",
-    "Pasted image 20251030174320.png",
-    "Learn.md",
-    "brain/CCA.md",
-    "brain",
-    "宏观认知/如何做到自己想做的.md",
-    "欢迎.md",
-    "宏观认知",
-    "git",
-    "信息获取",
-    "linux",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-conversations/你好@20251027_162844.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md"
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot"
   ]
 }
