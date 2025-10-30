@@ -11,14 +11,14 @@
             "id": "cd06674fc7a1da01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "cd06674fc7a1da01",
   "lastOpenFiles": [
+    "剧本 伪.md",
     "README.md",
     "欢迎.md",
     "LICENSE",
