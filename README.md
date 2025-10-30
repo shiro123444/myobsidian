@@ -1,0 +1,2 @@
+# myobsidian
+自用
