@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "brain/CCA.md",
+                "file": "宏观认知/如何做到自己想做的.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CCA"
+              "title": "如何做到自己想做的"
             }
           }
         ]
@@ -178,18 +178,19 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "cd06674fc7a1da01",
+  "active": "3b91ff2727f9fd72",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-conversations/你好@20251027_162844.md",
+    "brain/CCA.md",
     "宏观认知/如何做到自己想做的.md",
     "Pasted image 20251030174320.png",
     "剧本 伪.md",
     "README.md",
     "Learn.md",
     "欢迎.md",
-    "brain/CCA.md",
     "宏观认知",
     "myobsidian",
-    "copilot/copilot-conversations/你好@20251027_162844.md",
     "copilot/copilot-conversations",
     "brain",
     "LICENSE",
@@ -200,7 +201,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
