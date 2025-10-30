@@ -1,0 +1,19 @@
+# Obsidian workspace and cache files
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache
+
+# Trash folder
+.trash/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*~
