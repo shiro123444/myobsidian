@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "协方差资料.md",
+                "file": "欢迎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "协方差资料"
+              "title": "欢迎"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0da14eeb5ef415fa",
@@ -195,12 +195,19 @@
   },
   "active": "3d7bf68ca17221bd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Pasted image 20251106210648.png",
+    "picture",
+    "Pasted image 20251106211010.png",
+    "2025新生见面会.md",
+    "2025新生见面会.pdf",
+    "Pasted image 20251106210623.png",
+    "欢迎.md",
+    "协会",
+    "协方差资料.md",
     "Pasted image 20251030174320.png",
+    "conflict-files-obsidian-git.md",
     "README.md",
     "brain/CCA.md",
-    "欢迎.md",
-    "协方差资料.md",
     "宏观认知/如何做到自己想做的.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-conversations/你好@20251027_162844.md",
@@ -225,7 +232,6 @@
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "copilot"
+    "copilot/copilot-custom-prompts"
   ]
 }
