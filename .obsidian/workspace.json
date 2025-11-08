@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "brain/论文资料.md",
+                "file": "brain/CCA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "论文资料"
+              "title": "CCA"
             }
           }
         ],
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,16 +206,16 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f6ae941559d64ca0",
+  "active": "a7eb27901fa015a2",
   "lastOpenFiles": [
+    "brain/协方差资料.md",
+    "brain/论文资料.md",
     "copilot/copilot-conversations/这是咋回事：@20251108_190055.md",
     "copilot/copilot-conversations",
     "copilot",
     "conflict-files-obsidian-git.md",
-    "brain/论文资料.md",
     "附件/0952191eb0f0f61e8a7c7a8a6060bec5_720.jpg",
     "brain/CCA.md",
-    "brain/协方差资料.md",
     "宏观认知/如何做到自己想做的.md",
     "README.md",
     "2025新生见面会.pdf",
