@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "brain/CCA.md",
+                "file": "CS50/C语言基础：工具和环境准备篇.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CCA"
+              "title": "C语言基础：工具和环境准备篇"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "05bc3555614d7325",
@@ -208,6 +209,11 @@
   },
   "active": "a7eb27901fa015a2",
   "lastOpenFiles": [
+    "附件/Pasted image 20251113180047.png",
+    "csapp/导论.md",
+    "CS50/C语言基础：工具和环境准备篇.md",
+    "CS50",
+    "brain/CCA.md",
     "brain/协方差资料.md",
     "brain/论文资料.md",
     "copilot/copilot-conversations/这是咋回事：@20251108_190055.md",
@@ -215,7 +221,6 @@
     "copilot",
     "conflict-files-obsidian-git.md",
     "附件/0952191eb0f0f61e8a7c7a8a6060bec5_720.jpg",
-    "brain/CCA.md",
     "宏观认知/如何做到自己想做的.md",
     "README.md",
     "2025新生见面会.pdf",
@@ -228,7 +233,6 @@
     "附件/Pasted image 20251108144824.png",
     "附件/Pasted image 20251106210623.png",
     "附件/Pasted image 20251030174320.png",
-    "csapp/导论.md",
     "附件",
     "csapp",
     "协方差资料.md",
@@ -246,12 +250,9 @@
     "myobsidian/copilot/copilot-custom-prompts/Make longer.md",
     "myobsidian/copilot/copilot-custom-prompts/Generate table of contents.md",
     "myobsidian/copilot/copilot-custom-prompts/Generate glossary.md",
-    "myobsidian/copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "myobsidian/copilot/copilot-custom-prompts/Explain like I am 5.md",
     "myobsidian/copilot/copilot-custom-prompts",
     "myobsidian/copilot",
     "myobsidian/LICENSE",
-    "myobsidian",
     "Pasted image 20251030174320.png"
   ]
 }
