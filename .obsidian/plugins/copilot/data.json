@@ -12,7 +12,7 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
-  "googleApiKey": "",
+  "googleApiKey": "AIzaSyDcoGd_2CAwziCEL9FnkAzKX_jfapDMJ9w",
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
@@ -189,8 +189,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -199,8 +199,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -359,7 +359,7 @@
   "autocompleteAcceptKey": "Tab",
   "allowAdditionalContext": true,
   "enableWordCompletion": false,
-  "lastDismissedVersion": null,
+  "lastDismissedVersion": "3.1.2",
   "passMarkdownImages": true,
   "enableAutonomousAgent": false,
   "enableCustomPromptTemplating": true,
