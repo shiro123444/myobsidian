@@ -25,14 +25,12 @@
             "id": "3d7bf68ca17221bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
+                "file": "2025新生见面会.pdf"
               },
-              "icon": "lucide-file",
-              "title": "欢迎"
+              "icon": "lucide-file-text",
+              "title": "2025新生见面会"
             }
           }
         ],
@@ -195,13 +193,14 @@
   },
   "active": "3d7bf68ca17221bd",
   "lastOpenFiles": [
+    "欢迎.md",
+    "剧本 伪.md",
     "Pasted image 20251106210648.png",
     "picture",
     "Pasted image 20251106211010.png",
     "2025新生见面会.md",
     "2025新生见面会.pdf",
     "Pasted image 20251106210623.png",
-    "欢迎.md",
     "协会",
     "协方差资料.md",
     "Pasted image 20251030174320.png",
@@ -211,7 +210,6 @@
     "宏观认知/如何做到自己想做的.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-conversations/你好@20251027_162844.md",
-    "剧本 伪.md",
     "Learn.md",
     "宏观认知",
     "myobsidian",

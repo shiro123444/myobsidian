@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Primary"
+  "cssTheme": "Primary",
+  "baseFontSizeAction": true,
+  "baseFontSize": 30
 }
