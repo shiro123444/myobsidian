@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "CCA"
             }
+          },
+          {
+            "id": "f066b74b2c65c3e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50/正确的配置该死的环境.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "正确的配置该死的环境"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,37 +207,45 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3d7bf68ca17221bd",
+  "active": "f066b74b2c65c3e7",
   "lastOpenFiles": [
+    "CS50/C语言基础：工具和环境准备篇.md",
+    "CS50/正确的配置该死的环境.md",
+    "附件/9bdc3876848d5f10079c081f7d3f9b8d.png",
+    "附件/07b216146108df54cb5e8700ff74b9ff.png",
+    "附件/d71e861e66c6edee481598c7eeb4f451.png",
+    "附件/78cfcf05689e6bb534588dac34a2729d.png",
+    "附件/203f4662a62391205f43505d330611c9.png",
+    "附件/28e4bc918a8edc77a56dececee885b00.png",
+    "附件/8c9c51efe9f3aed717c3fac6f795c680.png",
+    "附件/144b0f63ddac2acca8acb117b98c5803.png",
+    "附件/f3cf5d1df3f0658cfb7e8880d299b9ac.png",
+    "附件/23a978bb299e87f0459f30e3c370a9d5.png",
+    "brain/CCA.md",
+    "conflict-files-obsidian-git.md",
+    "copilot/copilot-conversations/这是咋回事：@20251108_190055.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "brain/论文资料.md",
+    "CS50",
+    "508.md",
     "brain/协方差资料.md",
     "宏观认知/如何做到自己想做的.md",
     "csapp/导论.md",
     "剧本 伪.md",
     "欢迎.md",
-    "附件/Pasted image 20251108144824.png",
     "附件",
-    "附件/Pasted image 20251108144544.png",
-    "附件/Pasted image 20251108144656.png",
-    "附件/Pasted image 20251106211010.png",
     "csapp",
-    "附件/Pasted image 20251106210648.png",
     "123",
     "2025新生见面会.md",
     "2025新生见面会.pdf",
-    "附件/Pasted image 20251106210623.png",
     "协会",
-    "附件/Pasted image 20251030174320.png",
-    "conflict-files-obsidian-git.md",
     "README.md",
-    "brain/CCA.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-conversations/你好@20251027_162844.md",
     "Learn.md",
     "宏观认知",
     "myobsidian",
-    "copilot/copilot-conversations",
-    "brain",
-    "LICENSE",
     "myobsidian/README.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
@@ -231,11 +253,6 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md"
+    "copilot/copilot-custom-prompts/Emojify.md"
   ]
 }
