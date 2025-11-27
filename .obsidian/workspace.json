@@ -11,58 +11,24 @@
             "id": "cd06674fc7a1da01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "新标签页"
             }
           },
           {
             "id": "3d7bf68ca17221bd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2025新生见面会.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2025新生见面会"
-            }
-          },
-          {
-            "id": "c99390e72d62d566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50/Week0.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Week0"
-            }
-          },
-          {
-            "id": "75aeac317a779b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50/C语言基础：工具和环境准备篇.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C语言基础：工具和环境准备篇"
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,53 +185,52 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c99390e72d62d566",
+  "active": "3d7bf68ca17221bd",
   "lastOpenFiles": [
-    "附件/Pasted image 20251117114546.png",
-    "CS50/C语言基础：工具和环境准备篇.md",
-    "CS50/Week0.md",
-    "CS50/正确的配置该死的环境.md",
+    "CS50/Week0拓展.md",
+    "CS50/C语言基础：终端.md",
+    "CS50/C语言基础：正确的配置该死的环境（前篇）.md",
+    "CS50/C语言基础：正确的配置该死的环境（后篇）.md",
+    "附件/Pasted image 20251126090924.png",
+    "附件/Pasted image 20251126090545.png",
+    "附件/Pasted image 20251126090226.png",
+    "附件/Pasted image 20251125214609.png",
+    "附件/Pasted image 20251125214108.png",
+    "附件/Pasted image 20251125172105.png",
+    "附件/Pasted image 20251125172045.png",
+    "brain/CCA.md",
+    "预算/台式.md",
+    "附件/Pasted image 20251117201506.png",
+    "附件/Pasted image 20251117201133.png",
+    "预算",
+    "附件/Pasted image 20251117172237.png",
     "conflict-files-obsidian-git.md",
-    "附件/f3cf5d1df3f0658cfb7e8880d299b9ac.png",
-    "附件/d71e861e66c6edee481598c7eeb4f451.png",
-    "附件/Pasted image 20251116173916.png",
-    "附件/Pasted image 20251114115530.png",
-    "附件/Pasted image 20251113190428.png",
-    "附件/9bdc3876848d5f10079c081f7d3f9b8d.png",
-    "附件/8c9c51efe9f3aed717c3fac6f795c680.png",
-    "附件/78cfcf05689e6bb534588dac34a2729d.png",
-    "附件/28e4bc918a8edc77a56dececee885b00.png",
-    "附件/23a978bb299e87f0459f30e3c370a9d5.png",
-    "2025新生见面会.pdf",
-    "附件",
-    "csapp/导论.md",
-    "csapp",
     "copilot/copilot-conversations/这是咋回事：@20251108_190055.md",
+    "copilot/copilot-conversations",
+    "copilot",
     "brain/论文资料.md",
-    "brain/协方差资料.md",
     "CS50",
     "508.md",
-    "欢迎.md",
-    "剧本 伪.md",
-    "picture",
-    "2025新生见面会.md",
-    "协会",
-    "协方差资料.md",
-    "README.md",
-    "brain/CCA.md",
+    "brain/协方差资料.md",
     "宏观认知/如何做到自己想做的.md",
+    "csapp/导论.md",
+    "剧本 伪.md",
+    "欢迎.md",
+    "附件",
+    "csapp",
+    "123",
+    "2025新生见面会.md",
+    "2025新生见面会.pdf",
+    "协会",
+    "README.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-conversations/你好@20251027_162844.md",
     "Learn.md",
     "宏观认知",
-    "myobsidian",
-    "copilot/copilot-conversations",
-    "brain",
     "myobsidian/README.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md"
+    "copilot/copilot-custom-prompts/Generate glossary.md"
   ]
 }
