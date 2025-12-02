@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "csapp/导论.md",
+                "file": "CS50/Week0拓展.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "导论"
+              "title": "Week0拓展"
             }
           }
         ],
@@ -219,7 +219,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "dc88a477709aa3a2",
+  "active": "3b7b3d525d1dcf03",
   "lastOpenFiles": [
     "csapp/导论.md",
     "conflict-files-obsidian-git.md",
