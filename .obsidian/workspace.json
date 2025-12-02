@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "csapp/导论.md",
+                "file": "csapp/从底层开始/二进制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "导论"
+              "title": "二进制"
             }
           }
         ],
@@ -191,23 +191,25 @@
   },
   "active": "3d7bf68ca17221bd",
   "lastOpenFiles": [
+    "csapp/从底层开始/二进制.md",
+    "附件/pic_20251201205317_0.jpg",
+    "附件/Pasted image 20251201201111.png",
+    "CS50/Week0拓展.md",
+    "CS50/C语言基础：正确的配置该死的环境（前篇）.md",
+    "CS50/C语言基础：正确的配置该死的环境（后篇）.md",
+    "csapp/导论.md",
+    "csapp/从底层开始",
     "附件/Pasted image 20251127210940.png",
     "附件/Pasted image 20251127210430.png",
     "附件/Pasted image 20251127210424.png",
     "附件/Pasted image 20251127210155.png",
     "123.pdf",
     "123.md",
-    "CS50/Week0拓展.md",
     "CS50/C语言基础：终端.md",
-    "CS50/C语言基础：正确的配置该死的环境（前篇）.md",
-    "CS50/C语言基础：正确的配置该死的环境（后篇）.md",
     "附件/Pasted image 20251126090924.png",
     "附件/Pasted image 20251126090545.png",
     "附件/Pasted image 20251126090226.png",
     "附件/Pasted image 20251125214609.png",
-    "附件/Pasted image 20251125214108.png",
-    "附件/Pasted image 20251125172105.png",
-    "附件/Pasted image 20251125172045.png",
     "brain/CCA.md",
     "预算/台式.md",
     "预算",
@@ -220,7 +222,6 @@
     "508.md",
     "brain/协方差资料.md",
     "宏观认知/如何做到自己想做的.md",
-    "csapp/导论.md",
     "剧本 伪.md",
     "欢迎.md",
     "附件",
@@ -228,14 +229,12 @@
     "123",
     "2025新生见面会.md",
     "2025新生见面会.pdf",
-    "协会",
     "README.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-conversations/你好@20251027_162844.md",
     "Learn.md",
     "myobsidian/README.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md"
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md"
   ]
 }
