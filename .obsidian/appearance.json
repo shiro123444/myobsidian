@@ -1,5 +1,6 @@
 {
   "cssTheme": "Primary",
   "baseFontSizeAction": true,
-  "baseFontSize": 30
+  "baseFontSize": 28,
+  "monospaceFontFamily": "Maple Mono, Consolas, monospace"
 }
